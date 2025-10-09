@@ -32,8 +32,8 @@
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/seu-linkedin-aqui/)  
-[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/seu-linkedin-aqui/](https://www.linkedin.com/in/jo%C3%A3o-victor-fontanelli-de-oliveira-coutinho-067a54364/))  
+[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](joaovictorcourinh@gmail.com)
 
 ---
 
