@@ -32,8 +32,9 @@
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/seu-linkedin-aqui/](https://www.linkedin.com/in/jo%C3%A3o-victor-fontanelli-de-oliveira-coutinho-067a54364/))  
-[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](joaovictorcourinh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jo%C3%A3o-victor-fontanelli-de-oliveira-coutinho-067a54364/)  
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:joaovictorcourinh@gmail.com)  
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/597104645713821697)
 
 ---
 
